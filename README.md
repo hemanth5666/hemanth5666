@@ -1,8 +1,10 @@
-(https://github.com/hemanth5666/hemanth5666/assets/95521874/459174ac-a910-41c1-9c8e-02add1920f64)
+![My happy place is where creativity meets code](https://github.com/hemanth5666/hemanth5666/assets/95521874/cf0fd6b1-cb01-4a29-960d-1a19ef38785e)
+
 
 <h1 align="center">Hi 👋, I'm HEMANTH B</h1>![My happy place is where creativity meets code]
 
-<h3 align="center">Enjoying the challenge of exploring machine learning concepts!</h3>
+<h3 align="center">Enjoying the challenge of exploring machine learning concepts!</h3>!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth5666&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth5666" /> </p>
 
