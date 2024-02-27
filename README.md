@@ -4,9 +4,6 @@
 
 <h3 align="center">Enjoying the challenge of exploring machine learning concepts!</h3>!
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth5666&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth5666" /> </p>
-
 - 🔭 I’m currently working on **Machine learning projects**
 
 - 🌱 I’m currently learning **ML and DS**
