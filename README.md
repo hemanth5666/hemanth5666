@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm HEMANTH B</h1>![My happy place is where creativity meets code]
 
-<h3 align="center">Enjoying the challenge of exploring machine learning concepts!</h3>!
+<h3 align="center">Enjoying the challenge of exploring machine learning concepts!</h3>
 
 - 🔭 I’m currently working on **Machine learning projects**
 
