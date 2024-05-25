@@ -1,4 +1,4 @@
-![My happy place is where creativity meets code](https://github.com/hemanth5666/hemanth5666/assets/95521874/ed314803-61a1-48cc-b463-8ff08ab14bdd)
+![](https://github.com/hemanth5666/hemanth5666/assets/95521874/ed314803-61a1-48cc-b463-8ff08ab14bdd)
 
 <h1 align="center">Hi 👋, I'm HEMANTH B</h1>![My happy place is where creativity meets code]
 
@@ -44,7 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanth5666&show_icons=true&locale=en" alt="hemanth5666" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth5666&theme=dark&hide_border=false&count_private=true" alt="hemanth5666" /></p>
-
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth5666&theme=github-compact alt="hemanth5666" /></p>
 
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth5666&theme=github-compact" alt="hemanth5666" /></p>
