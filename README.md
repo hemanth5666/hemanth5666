@@ -1,4 +1,4 @@
-<img src="https://github.com/hemanth5666/hemanth5666/assets/95521874/ed314803-61a1-48cc-b463-8ff08ab14bdd" alt="Your Image Description" width="100%" height="200">
+<img src="https://github.com/hemanth5666/hemanth5666/assets/95521874/5232be33-b4ec-4951-9726-3a55b8f8f504" alt="Your Image Description" width="100%" height="200">
 
 <h1 align="center">Hi 👋, I'm HEMANTH B</h1>
 
