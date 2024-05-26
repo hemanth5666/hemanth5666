@@ -1,4 +1,4 @@
-![](https://github.com/hemanth5666/hemanth5666/assets/95521874/ed314803-61a1-48cc-b463-8ff08ab14bdd)
+<img src="https://github.com/hemanth5666/hemanth5666/assets/95521874/ed314803-61a1-48cc-b463-8ff08ab14bdd" alt="Your Image Description" width="50" height="50">
 
 <h1 align="center">Hi 👋, I'm HEMANTH B</h1>
 
