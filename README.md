@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/hemanth-b-57206a22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-b-57206a22b" height="35" width="40" /></a>
 &nbsp;
-<a href="https://dev.to/hemanth5666" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="hemanth5666" height="40" width="40" /></a>
+<a href="https://dev.to/hemanth5666" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fportfolio-icon&psig=AOvVaw1EPMD_Acs1d_zugZgAXezO&ust=1716822495617000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjj-brMq4YDFQAAAAAdAAAAABAJ" alt="hemanth5666" height="40" width="40" /></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/19323370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19323370" height="40" width="40" /></a>
 &nbsp;
