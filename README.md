@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm HEMANTH B</h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/hemanth-b-57206a22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-b-57206a22b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hemanth-b-57206a22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-b-57206a22b" height="30" width="40" style="margin-right: 10px;"/></a>
 <a href="https://dev.to/hemanth5666" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="hemanth5666" height="30" width="40" /></a>
 </p>
 
@@ -38,7 +38,7 @@
 # 📊 Stats and Activity:
 ![](https://github-readme-stats.vercel.app/api?username=hemanth5666&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth5666&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=hemanth5666&theme=github-compact)]
----
+![](https://github-readme-activity-graph.vercel.app/graph?username=hemanth5666&theme=github-compact)]
+
 [![](https://visitcount.itsvg.in/api?id=hemanth5666&icon=0&color=0)]
 
