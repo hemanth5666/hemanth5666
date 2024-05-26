@@ -13,12 +13,11 @@
 </p>
 
 🔭 I’m currently working on Machine learning projects<br><br>🌱 I’m currently learning ML and DS<br><br>👨‍💻 
-All of my projects are available at  
-<p>
-<a href="https://hemanth-portfolio-d8c31.web.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1572/1572202.png" alt="website" height="30" width="40" /></a>
-</p>
+All of my projects are available at  <a href="https://hemanth-portfolio-d8c31.web.app/" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20190903/original/pngtree-personal-information-icon-png-image_4436300.jpg" alt="website" height="30" width="40" />
 <br><br>📝 I regularly write articles on https://medium.com/@hemanthb2021ai<br><br>💬 Ask me about Python,Java & AI<br><br>📫 How to reach me hemanthb2021ai@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1uRYBMtw21xPAg3G3H6e8I7-BfWDBBa76?usp=sharing
+
 ---
+
 # 🌐 Connect With Me
 <p align="left">
 <a href="https://kaggle.com/hemanth5666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hemanth5666" height="30" width="40" /></a>
