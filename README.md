@@ -1,18 +1,19 @@
 <img src="https://github.com/hemanth5666/hemanth5666/assets/95521874/5232be33-b4ec-4951-9726-3a55b8f8f504" alt="Your Image Description" width="100%" height="200">
 
-<h1 align="center">Hi 👋, I'm HEMANTH B</h1>
+<h1 align="center">HEMANTH B</h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/hemanth-b-57206a22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-b-57206a22b" height="35" width="40" /></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://dev.to/hemanth5666" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="hemanth5666" height="40" width="40" /></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/19323370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19323370" height="40" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/@hemanthb2021ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemanthb2021ai" height="35" width="40" /></a>
+&nbsp;
+<a href="https://medium.com/@hemanthb2021ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemanthb2021ai" height="40" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://drive.google.com/drive/folders/1uRYBMtw21xPAg3G3H6e8I7-BfWDBBa76?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/942/942748.png" alt="Résumé" height="35" width="40" /></a>
 </p>
-
-Know about my experiences <a href="https://drive.google.com/drive/folders/1uRYBMtw21xPAg3G3H6e8I7-BfWDBBa76?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/942/942748.png" alt="Résumé" height="35" width="40" /></a>
 
 ---
 
