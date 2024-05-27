@@ -12,7 +12,7 @@
 <a href="https://medium.com/@hemanthb2021ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemanthb2021ai" height="35" width="40" /></a>
 </p>
 
-Know about my experiences https://drive.google.com/drive/folders/1uRYBMtw21xPAg3G3H6e8I7-BfWDBBa76?usp=sharing
+Know about my experiences <a href="https://drive.google.com/drive/folders/1uRYBMtw21xPAg3G3H6e8I7-BfWDBBa76?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/942/942748.png" alt="Résumé" height="35" width="40" /></a>
 
 ---
 
