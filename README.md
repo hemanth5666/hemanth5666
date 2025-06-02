@@ -15,7 +15,7 @@
 <a href="https://drive.google.com/drive/folders/1uRYBMtw21xPAg3G3H6e8I7-BfWDBBa76?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/942/942748.png" alt="Résumé" height="40" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 ---
 
 # 🌐 Connect With Me
